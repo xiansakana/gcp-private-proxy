@@ -1,0 +1,15 @@
+/client/
+/ssh-keys.txt
+/credentials*.json
+/limits.json
+/import-*.txt
+/sing-box-windows*.json
+!/sing-box-windows.example.json
+/sing-box-mobile*.json
+/previous-system-proxy.json
+/diagnostic*.json
+*.zip
+*.pem
+*.key
+.env
+__pycache__/
